@@ -35,7 +35,7 @@ Creación de contenido educativo en agronomía
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,dotnet,html,js,git,github,vscode,arduino,notion&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,r,html,js,git,github,vscode,arduino,notion&perline=12" />
   </a>
 </p>
 <br>
